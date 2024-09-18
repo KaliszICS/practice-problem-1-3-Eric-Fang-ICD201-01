@@ -13,7 +13,7 @@ def q1():
 
 def q2():
   print("Hello ", end = "")
-  print("World", end = "")
+  print("World")
   
 
 def q3():
