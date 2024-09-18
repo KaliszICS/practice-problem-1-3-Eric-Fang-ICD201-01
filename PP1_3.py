@@ -1,7 +1,13 @@
 
+'''
+  Lesson 3 - Using Strings
+  Author: Eric Fang
+  Date Created: September 17th, 2024
+  Date Last Modified: September 18th, 2024
+'''
 
 def q1():
-  
+
   print(" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n")
 
   print("* * * * *\n*       *\n*       *\n*       *\n* * * * *\n")
